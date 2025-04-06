@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+img {
+    width: 120px;
+    height: 120px;
+}
+.circle {
+    border-radius: 50%;
+}
+
+.camel {
+    display: flex;
+    justify-self: flex-end;
+    border: 10px solid green;
+
+}
